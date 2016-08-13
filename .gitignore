@@ -29,4 +29,6 @@ sysinfo.txt
 /Assets/Generated.meta
 Assets/Generated
 Gen
+.idea*
+*.mp3
 
